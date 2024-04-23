@@ -1,0 +1,6 @@
+Id,Type,Prix,Nombre de chambre dispo,Description
+1,Chambre simple,100,48,Chambre simple avec lit double
+2,Chambre double,150,14,Chambre double avec deux lits simples
+3,Suite junior,200,3,Suite junior avec salon et lit king-size
+4,Suite familiale,250,6,Suite familiale avec deux chambres et kitchenette
+5,Chambre de luxe,300,45,Chambre de luxe avec jacuzzi et vue panoramique

@@ -1,0 +1,64 @@
+2,Chambre double,1,150,Chambre double avec deux lits simples,150
+1,Chambre simple,2,100,1,200
+1,Chambre simple,1,100,1,100
+1,Chambre simple,1,100,1,100
+1,Chambre simple,1,100,1,100
+2,Chambre double,1,150,2,150
+2,Chambre double,1,150,2,150
+2,Chambre double,1,150,2,150
+2,Chambre double,1,150,150
+2,Chambre double,1,150,150
+2,Chambre double,1,150,150
+2,Chambre double,1,150,150
+1,Chambre simple,1,100,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+2,Chambre double,3,150,2,450
+2,Chambre double,1,150,2,150
+2,Chambre double,1,150,2,150
+2,Chambre double,1,150,2,150
+2,Chambre double,1,150,2,150
+2,Chambre double,1,150,2,150
+2,Chambre double,1,150,2,150
+3,Suite junior,1,200,2,200
+5,Chambre de luxe,1,300,2,300
+2,Chambre double,1,150,2,150
+2,Chambre double,1,150,2,150
+2,Chambre double,1,150,2,150
+2,Chambre double,2,150,2,300
+2,Chambre double,1,150,2,150
+3,Suite junior,1,200,2,200
+1,Chambre simple,2,100,Chambre simple avec lit double,200
+5,Chambre de luxe,5,300,Chambre de luxe avec jacuzzi et vue panoramique,1500
+4,Suite familiale,2,250,Suite familiale avec deux chambres et kitchenette,500
+1,Chambre simple,2,100,Chambre simple avec lit double,200
+2,Chambre double,2,150,Chambre double avec deux lits simples,300
+1,Chambre simple,5,100,Chambre simple avec lit double,500
+2,Chambre double,2,150,Chambre double avec deux lits simples,300
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,2,100,Chambre simple avec lit double,200
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+3,Suite junior,2,200,Suite junior avec salon et lit king-size,400
+1,Chambre simple,2,100,Chambre simple avec lit double,200
+1,Chambre simple,1,100,Chambre simple avec lit double,100

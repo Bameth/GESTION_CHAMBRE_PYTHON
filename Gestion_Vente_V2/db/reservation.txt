@@ -1,0 +1,36 @@
+Numero_Vente,Id,Type,Nombre_de_personne,PVu,Total
+16012024083407,1,Chambre simple,2,100,Chambre simple avec lit double,200
+16012024083626,5,Chambre de luxe,5,300,Chambre de luxe avec jacuzzi et vue panoramique,1500
+16012024083626,4,Suite familiale,2,250,Suite familiale avec deux chambres et kitchenette,500
+16012024084024,1,Chambre simple,2,100,Chambre simple avec lit double,200
+16012024084024,2,Chambre double,2,150,Chambre double avec deux lits simples,300
+16012024085313,1,Chambre simple,5,100,Chambre simple avec lit double,500
+16012024085313,2,Chambre double,2,150,Chambre double avec deux lits simples,300
+16012024090840,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024090910,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024091217,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024091406,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024091556,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024091734,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024091905,1,Chambre simple,2,100,Chambre simple avec lit double,200
+16012024092036,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024092217,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024092320,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024092501,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024092543,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024092619,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024092742,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024092846,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024092930,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024092930,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024093028,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024093251,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024093321,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024093321,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024093521,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024093919,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024094328,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024100923,1,Chambre simple,1,100,Chambre simple avec lit double,100
+16012024101208,3,Suite junior,2,200,Suite junior avec salon et lit king-size,400
+16012024101208,1,Chambre simple,2,100,Chambre simple avec lit double,200
+16012024101208,1,Chambre simple,1,100,Chambre simple avec lit double,100

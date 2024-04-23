@@ -1,0 +1,37 @@
+Id,Type,Nombre de personne,PVu,Total
+
+1,Chambre simple,2,100,Chambre simple avec lit double,200
+5,Chambre de luxe,5,300,Chambre de luxe avec jacuzzi et vue panoramique,1500
+4,Suite familiale,2,250,Suite familiale avec deux chambres et kitchenette,500
+1,Chambre simple,2,100,Chambre simple avec lit double,200
+2,Chambre double,2,150,Chambre double avec deux lits simples,300
+1,Chambre simple,5,100,Chambre simple avec lit double,500
+2,Chambre double,2,150,Chambre double avec deux lits simples,300
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,2,100,Chambre simple avec lit double,200
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+1,Chambre simple,1,100,Chambre simple avec lit double,100
+3,Suite junior,2,200,Suite junior avec salon et lit king-size,400
+1,Chambre simple,2,100,Chambre simple avec lit double,200
+1,Chambre simple,1,100,Chambre simple avec lit double,100

@@ -1,0 +1,5 @@
+Id,Type,Nombre de personne,PVu,Total
+3,Suite junior,2,200,400
+1,Chambre simple,2,100,200
+1,Chambre simple,1,100,100
+-,-,-,Total,700
